@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LAYER_NAME=apl18.0
+LAYER_NAME=apl18.0-bins
 
 REGIONS='
 ap-northeast-1

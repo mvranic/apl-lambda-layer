@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LAYER_NAME=apl18.0
+LAYER_NAME=apl18.0-bins
 
 APL_VERSION=18.0.0
 
